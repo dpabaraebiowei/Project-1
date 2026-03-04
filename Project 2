@@ -1,0 +1,25 @@
+Breast Cancer Prediction Model
+
+Overview
+This project applies machine learning to classify breast cancer tumors as malignant or benign using clinical features from the Breast Cancer Wisconsin dataset.
+
+Methods
+- Data preprocessing and cleaning
+- Train-test split (80/20)
+- Logistic Regression model for tumor classification
+- Accuracy evaluation
+- Confusion matrix analysis for clinical interpretation
+
+ Results
+- Model Accuracy: ~95%
+- Low false negatives, high predictive reliability
+- Visualized disease distribution using bar charts
+
+Tools
+- Python
+- pandas
+- scikit-learn
+- matplotlib 
+
+Significance
+This project demonstrates how computational approaches can assist in early detection of breast cancer and support clinical decision-making.
